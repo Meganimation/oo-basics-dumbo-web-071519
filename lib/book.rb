@@ -1,6 +1,7 @@
 class Book 
-  attr_reader
+ 
   attr_accessor
+   attr_reader
   
   
 end
