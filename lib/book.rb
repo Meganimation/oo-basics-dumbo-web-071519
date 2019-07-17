@@ -10,5 +10,5 @@ class Book
   
 end
 
-Book.new
+book = Book.new('Book')
 
