@@ -7,7 +7,7 @@ class Book
     @title = title 
   end
   
-  def turn_page
+  def turn_page(page)
     'you turned the page'
   end
 end
