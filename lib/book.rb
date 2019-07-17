@@ -15,4 +15,4 @@ class Book
   
 end 
 
-authorname = Book.new (authorname)
+authorname = Book.new('authorname')
