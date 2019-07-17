@@ -8,7 +8,7 @@ class Book
   end
   
   def turn_page
-   'Flipping the page... Wow you read fast!'
+   'Flipping the page... wow, you read fast!'
   end
   
   
