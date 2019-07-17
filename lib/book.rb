@@ -16,5 +16,3 @@ class Book
 end 
 
 
-
-hey = Book.new 
