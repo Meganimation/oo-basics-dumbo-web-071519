@@ -4,5 +4,6 @@ class Book
   
 end
 
-Book.new("And Then There Were None")
+Book.new(title)
 
+title = "And Then There Were None"
