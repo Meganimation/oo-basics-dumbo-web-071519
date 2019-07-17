@@ -10,7 +10,7 @@ class Shoe
   
   def cobble
   puts 'The shoe has been repaired!'
-  
+  conidition = Shoe.new('new')
   end
   
   
