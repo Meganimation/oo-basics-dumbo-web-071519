@@ -15,6 +15,3 @@ end
 
 
 
-
-title = Book.new
-
