@@ -16,5 +16,5 @@ end
 
 
 
-book = Book.new()
+title = Book.new('title')
 
