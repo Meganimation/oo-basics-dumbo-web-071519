@@ -12,5 +12,5 @@ class Shoe
   puts 'Your shoe is as good as new!'
   end
   
-  Shoe.condition = Shoe.new('new')
+  Shoe.condition = 'old'
 end
