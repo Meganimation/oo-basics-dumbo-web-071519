@@ -1,6 +1,9 @@
 
 
 class Book 
+    def initialized(title)
+    end
+    
     
       attr_accessor :title, :author, :page_count, :genre
         def title 
@@ -10,4 +13,7 @@ class Book
 end
 
 
+
+
+book = Book.new('Book')
 
