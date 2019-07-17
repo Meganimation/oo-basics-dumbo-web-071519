@@ -7,6 +7,9 @@ class Book
     "And Then There Were None"
   end
   
+  def author 
+    
+  end
   
   
 end
