@@ -2,13 +2,14 @@
 
 class Book 
     def initialized(title)
+      @title = title
     end
-    
-    
-      attr_accessor :title, :author, :page_count, :genre
-        def title 
+           def title 
     "And Then There Were None"
   end
+    
+      attr_accessor :author, :page_count, :genre
+ 
   
 end
 
