@@ -8,8 +8,9 @@ class Shoe
   end
   
   
-  def cobble
+  def cobble=(new_condition)
   puts 'Your shoe is as good as new!'
+  new_condition
   end
 end
 
