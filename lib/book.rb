@@ -1,7 +1,7 @@
 class Book 
  
-  attr_accessor
-   attr_reader
+  attr_accessor :author, :title, :genre
+   attr_reader :page_count
   
   
 end
