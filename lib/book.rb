@@ -2,14 +2,12 @@ class Book
   
   
   def initialize(title)
-      def title
-    "And Then There Were None"
-  end 
+    @title = title
   end 
   
-
+  def title
+    "And Then There Were None"
+  end 
   
   
 end 
-
-Book.new
