@@ -8,6 +8,8 @@ class Book
   end
   
   def turn_page(page)
-   page =  'you turned the page'
+   'Flipping the page. Wow you read fast!'
   end
+  
+  
 end
