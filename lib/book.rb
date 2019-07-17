@@ -5,4 +5,5 @@ class Book
   
 end
 
-Book.new(title)
+Book.new
+
