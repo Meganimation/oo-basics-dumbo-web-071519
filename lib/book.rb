@@ -4,6 +4,7 @@ class Book
   end
   
   def title 
+    "And Then There Were None"
   end
   
   
