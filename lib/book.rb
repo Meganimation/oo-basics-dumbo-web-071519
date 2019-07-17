@@ -11,6 +11,3 @@ end
 
 
 
-
-book = Book.new('Book')
-
